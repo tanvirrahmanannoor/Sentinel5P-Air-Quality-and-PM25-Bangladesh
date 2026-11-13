@@ -10,4 +10,4 @@
 ![Bangladesh Air Quality Map](air_quality_map.png)
 
 ### 2. PM2.5 Concentration Map of Bangladesh
-![Bangladesh PM2.5 Map](pm25_map.png)
+![Bangladesh PM2.5 Map](pm25_map.jpg)
